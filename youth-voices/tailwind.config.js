@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{js,jsx}'],theme:{extend:{colors:{ivory:'#FAF9F6',mist:'#F0EEE7',sage:'#A8B5A0',ink:'#343B35',muted:'#777B73',warm:'#C9A88A'},fontFamily:{serif:['"Cormorant Garamond"','Georgia','"Times New Roman"','serif'],sans:['Inter','system-ui','-apple-system','"Segoe UI"','sans-serif']}}},plugins:[]}
